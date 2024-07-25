@@ -10,22 +10,18 @@ Installation
 To get a copy of this project up and running on your local machine, follow these steps:
 
 Clone the repository:
-sh
-Copy code
-git clone https://github.com/danialtla/tictactoe.git
+git clone https://github.com/yourusername/tictactoe.git
+
 Navigate to the project directory:
-sh
-Copy code
 cd tictactoe
-Usage
+
 Instructions on how to run and play the game.
 
 Running the Game
 Explain how to start the game. For example, if it's a Python project:
 
-sh
-Copy code
 python tictactoe.py
+
 How to Play
 The game starts with Player 1 (X) and Player 2 (O) taking turns.
 Click on an empty cell in the grid to place your mark.
@@ -40,17 +36,14 @@ If you want to contribute to this project, please follow these guidelines:
 
 Fork the repository.
 Create a new branch for your feature:
-sh
-Copy code
 git checkout -b feature-name
+
 Commit your changes:
-sh
-Copy code
 git commit -m 'Add some feature'
+
 Push to the branch:
-sh
-Copy code
 git push origin feature-name
+
 Open a pull request.
 
 Contact

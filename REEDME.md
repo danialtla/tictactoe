@@ -9,10 +9,12 @@ Reset functionality to start a new game.
 Installation
 To get a copy of this project up and running on your local machine, follow these steps:
 
-Clone the repository:
+Clone the repository:\
+
 git clone https://github.com/yourusername/tictactoe.git
 
 Navigate to the project directory:
+
 cd tictactoe
 
 Instructions on how to run and play the game.
@@ -32,16 +34,20 @@ Include screenshots of your game here to give users a visual idea of what to exp
 
 
 Contributing
+
 If you want to contribute to this project, please follow these guidelines:
 
 Fork the repository.
 Create a new branch for your feature:
+
 git checkout -b feature-name
 
 Commit your changes:
+
 git commit -m 'Add some feature'
 
 Push to the branch:
+
 git push origin feature-name
 
 Open a pull request.
